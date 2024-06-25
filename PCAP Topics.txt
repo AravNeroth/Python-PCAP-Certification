@@ -1,17 +1,26 @@
 PCAP Topics
------------
+
+Syllabus: PCAP-31-03 Exam Syllabus Topics 
+
+Section 1 Modules & Packages → 6 concepts Value: (12%)
+Section 2 → 5 concepts Value: (14%)
+Section 3 → 8 concepts Value: (18%)
+Section 4 → 12 concepts Value: (34%)
+Section 5 → 9 concepts Value: (22%)
+
+34 Total Topics
 
 
-
-
-Unlearned
----------
-
-
-
-
-
-Learned
+Learned (8/34)
 -------
 
+1.1 module & package usage 
+1.2 math module
+1.3 random module 
+1.4 platform module
 
+3.2 string operations
+
+4.1 OOP concepts
+4.3 class methods
+4.6 construct & initialize objects
