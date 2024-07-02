@@ -2,14 +2,13 @@ PCAP Topics
 
 Syllabus: PCAP-31-03 Exam Syllabus Topics 
 
-Section 1 Modules & Packages → 6 concepts Value: (12%)
-Section 2 → 5 concepts Value: (14%)
-Section 3 → 8 concepts Value: (18%)
-Section 4 → 12 concepts Value: (34%)
-Section 5 → 9 concepts Value: (22%)
+Section 1 | Modules & Packages 	→ 6 concepts Value: (12%)
+Section 2 | Exceptions 		→ 5 concepts Value: (14%)
+Section 3 | Strings		→ 8 concepts Value: (18%)
+Section 4 | OOP 		→ 12 concepts Value: (34%)
+Section 5 | Lambda & Basic I/O 	→ 9 concepts Value: (22%)
 
 34 Total Topics
-
 
 Learned (8/34)
 -------
